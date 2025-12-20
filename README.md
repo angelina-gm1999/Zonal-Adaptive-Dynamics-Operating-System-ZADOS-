@@ -8,6 +8,20 @@ Large language models are used strictly as an interpretive interface for human-r
 
 ZA-DOS is a research and prototyping framework for studying adaptive cognition, system-level intelligence, and governance under uncertainty, with a focus on modularity, extensibility, and explicit control over cognitive dynamics.
 Project Status
+ZA-DOS is an active, long-term architecture project.
+
+This repository intentionally exposes:
+- design documentation
+- developer notes
+- structural artifacts
+
+while keeping selected implementation details private during
+early development.
+
+The goal is to demonstrate architectural depth, reasoning clarity,
+and disciplined system design rather than provide a complete or
+finalized release.
+
 
 This repository is primarily documentative.
 It serves as a design, research, and architectural reference for ZA-DOS, a cognitive architecture currently under active development.

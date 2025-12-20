@@ -12,8 +12,13 @@ Purpose of This Notebook
 Why Some Components Are Hidden or Redacted
 
   -Some components of ZA-DOS are intentionally not published at this stage.
+  
   -This is a deliberate engineering decision rather than an attempt at obscurity.
-  -Parts of the system are mid-implementation, several subsystems are iterating rapidly, and releasing partial internals would create misleading or fragile public artifacts.   -Certain components are being stabilized before exposure to avoid locking premature interfaces.
+  
+  -Parts of the system are mid-implementation, several subsystems are iterating rapidly, and releasing partial internals would create misleading or fragile public artifacts.
+  
+  -Certain components are being stabilized before exposure to avoid locking premature interfaces.
+ 
   -Rather than publishing incomplete or brittle code, this repository focuses on structure, boundaries, and intent.
 
 What This Repository Emphasizes

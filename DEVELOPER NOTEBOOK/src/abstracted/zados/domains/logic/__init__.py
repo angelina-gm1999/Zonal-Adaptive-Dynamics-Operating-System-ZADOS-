@@ -36,5 +36,5 @@ __all__ = [
 # withheld in this public release.
 #
 # Public exposure status:
-#   4 / 12 logic submodules exposed
-#   8 / 12 logic submodules redacted
+#   4 / 11 logic submodules exposed
+#   7 / 11 logic submodules redacted

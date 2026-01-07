@@ -21,6 +21,14 @@ Why Some Components Are Hidden or Redacted
  
   -Rather than publishing incomplete or brittle code, this repository focuses on structure, boundaries, and intent.
 
+| Domain           | Purpose (High-Level)                                   | Public Submodules | Redacted Submodules |
+| ---------------- | ------------------------------------------------------ | ----------------- | ------------------- |
+| Logic            | Epistemic soundness, coherence, and semantic stability | 4                 | 8                   |
+| Ethics           | Governance constraints and ethical alignment           | 2                 | 6                   |
+| Human Attunement | Interpersonal alignment and relational risk shaping    | 0                 | 10                  |
+| Domain_2         | *(Intentionally undisclosed at this stage)*            | 0                 | *Fully redacted*    |
+
+
 What This Repository Emphasizes
   The public materials emphasize layer boundaries and responsibilities, data flow and interface contracts, rationale behind modularization choices, incremental progress and     design iteration, and open questions or known constraints. The goal is to make the system legible without oversharing internals that are still in flux.
 

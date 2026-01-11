@@ -21,12 +21,6 @@ Why Some Components Are Hidden or Redacted
  
   -Rather than publishing incomplete or brittle code, this repository focuses on structure, boundaries, and intent.
 
-| Domain           | Purpose (High-Level)                                   | Public Submodules | Redacted Submodules |
-| ---------------- | ------------------------------------------------------ | ----------------- | ------------------- |
-| Logic            | Epistemic soundness, coherence, and semantic stability | 4                 | 8                   |
-| Ethics           | Governance constraints and ethical alignment           | 2                 | 6                   |
-| Human Attunement | Interpersonal alignment and relational risk shaping    | 0                 | 10                  |
-| Domain_2         | *(Intentionally undisclosed at this stage)*            | 0                 | *Fully redacted*    |
 
 
 What This Repository Emphasizes
